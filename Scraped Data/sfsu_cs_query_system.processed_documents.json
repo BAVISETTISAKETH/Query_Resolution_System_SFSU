@@ -1,0 +1,4802 @@
+[{
+  "_id": {
+    "$oid": "67d88ce1b5fa5a6edfaad464"
+  },
+  "source_id": {
+    "$oid": "67d78e08543bdb119ef4767a"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T13:58:09.071Z"
+  },
+  "url": "https://cs.sfsu.edu/event/graduate-seminar-swig-modern-applications"
+},
+{
+  "_id": {
+    "$oid": "67d88ce1b5fa5a6edfaad46d"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78e0a543bdb119ef4767f"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T13:58:09.227Z"
+  },
+  "url": "https://cs.sfsu.edu/prospective-graduates"
+},
+{
+  "_id": {
+    "$oid": "67d88ce1b5fa5a6edfaad46e"
+  },
+  "source_id": {
+    "$oid": "67d78e0b543bdb119ef47681"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T13:58:09.251Z"
+  },
+  "url": "https://cs.sfsu.edu/people/kimbrough-moore"
+},
+{
+  "_id": {
+    "$oid": "67d88ce1b5fa5a6edfaad470"
+  },
+  "source_id": {
+    "$oid": "67d78e0c543bdb119ef47682"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T13:58:09.274Z"
+  },
+  "url": "https://cs.sfsu.edu/events-upcoming"
+},
+{
+  "_id": {
+    "$oid": "67d88ce1b5fa5a6edfaad472"
+  },
+  "source_id": {
+    "$oid": "67d78e0f543bdb119ef47684"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T13:58:09.299Z"
+  },
+  "url": "https://cs.sfsu.edu/people/tracy-xuhui-chen"
+},
+{
+  "_id": {
+    "$oid": "67d88ce1b5fa5a6edfaad473"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78e10543bdb119ef47686"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T13:58:09.319Z"
+  },
+  "url": "https://cs.sfsu.edu/people/joseph-hui"
+},
+{
+  "_id": {
+    "$oid": "67d88ce1b5fa5a6edfaad475"
+  },
+  "source_id": {
+    "$oid": "67d78e13543bdb119ef47687"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T13:58:09.342Z"
+  },
+  "url": "https://cs.sfsu.edu/news/professor-dragutin-petkovic-presented-keynote-speech-ieee-ccwc-conference-las-vegas-january-8"
+},
+{
+  "_id": {
+    "$oid": "67d88ce1b5fa5a6edfaad478"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78e15543bdb119ef47688"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T13:58:09.480Z"
+  },
+  "url": "https://cs.sfsu.edu/event/human-centered-assistive-robots-understanding-commands-detecting-cognitive-fatigue"
+},
+{
+  "_id": {
+    "$oid": "67d88ce1b5fa5a6edfaad47b"
+  },
+  "source_id": {
+    "$oid": "67d78e17543bdb119ef4768b"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T13:58:09.620Z"
+  },
+  "url": "https://cs.sfsu.edu/people/anagha-kulkarni"
+},
+{
+  "_id": {
+    "$oid": "67d88ce1b5fa5a6edfaad47d"
+  },
+  "source_id": {
+    "$oid": "67d78e19543bdb119ef4768c"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T13:58:09.658Z"
+  },
+  "url": "https://cs.sfsu.edu/event/graduate-seminar-ai-driven-advancements-battery-materials-and-alzheimers-biomarker-detection"
+},
+{
+  "_id": {
+    "$oid": "67d88ce1b5fa5a6edfaad480"
+  },
+  "source_id": {
+    "$oid": "67d78e1a543bdb119ef4768e"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T13:58:09.784Z"
+  },
+  "url": "https://cs.sfsu.edu/news/new-department-defense-energy-grants-prepare-sfsu-students-industry-jobs"
+},
+{
+  "_id": {
+    "$oid": "67d88ce1b5fa5a6edfaad481"
+  },
+  "source_id": {
+    "$oid": "67d78e1c543bdb119ef4768f"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T13:58:09.937Z"
+  },
+  "url": "https://cs.sfsu.edu/grads/prospective-graduates"
+},
+{
+  "_id": {
+    "$oid": "67d88ce2b5fa5a6edfaad496"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78e1f543bdb119ef47697"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T13:58:10.216Z"
+  },
+  "url": "https://cs.sfsu.edu/masters-culminating-experience"
+},
+{
+  "_id": {
+    "$oid": "67d88ce2b5fa5a6edfaad49d"
+  },
+  "source_id": {
+    "$oid": "67d78e20543bdb119ef47698"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T13:58:10.367Z"
+  },
+  "url": "https://cs.sfsu.edu/news/open-faculty-position-cs-department"
+},
+{
+  "_id": {
+    "$oid": "67d88ce2b5fa5a6edfaad49f"
+  },
+  "source_id": {
+    "$oid": "67d78e23543bdb119ef47699"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T13:58:10.391Z"
+  },
+  "url": "https://cs.sfsu.edu/news/san-francisco-state-honors-computer-science-graduates-2024-ceremony"
+},
+{
+  "_id": {
+    "$oid": "67d88ce2b5fa5a6edfaad4a2"
+  },
+  "source_id": {
+    "$oid": "67d78e24543bdb119ef4769a"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T13:58:10.527Z"
+  },
+  "url": "https://cs.sfsu.edu/event/deploy-ai-edge-bridge-information-gap-efficiency-and-security"
+},
+{
+  "_id": {
+    "$oid": "67d88ce2b5fa5a6edfaad4a3"
+  },
+  "source_id": {
+    "$oid": "67d78e25543bdb119ef4769d"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T13:58:10.558Z"
+  },
+  "url": "https://cs.sfsu.edu/directory"
+},
+{
+  "_id": {
+    "$oid": "67d88ce2b5fa5a6edfaad4a5"
+  },
+  "source_id": {
+    "$oid": "67d78e27543bdb119ef4769e"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T13:58:10.582Z"
+  },
+  "url": "https://cs.sfsu.edu/event/revealing-hidden-stories-co-designing-thamien-ohlone-augmented-reality-tour"
+},
+{
+  "_id": {
+    "$oid": "67d88ce2b5fa5a6edfaad4a6"
+  },
+  "source_id": {
+    "$oid": "67d78e28543bdb119ef4769f"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T13:58:10.605Z"
+  },
+  "url": "https://cs.sfsu.edu/seminars"
+},
+{
+  "_id": {
+    "$oid": "67d88ce2b5fa5a6edfaad4aa"
+  },
+  "source_id": {
+    "$oid": "67d78e2a543bdb119ef476a1"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T13:58:10.749Z"
+  },
+  "url": "https://cs.sfsu.edu/people/akila-de-silva"
+},
+{
+  "_id": {
+    "$oid": "67d88e5cb5fa5a6edfaad4ab"
+  },
+  "source_id": {
+    "$oid": "67d78ed1543bdb119ef476a3"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:04:28.639Z"
+  },
+  "url": "https://cs.sfsu.edu/people/sanika-doolani"
+},
+{
+  "_id": {
+    "$oid": "67d88e6fb5fa5a6edfaad4ad"
+  },
+  "source_id": {
+    "$oid": "67d78ed2543bdb119ef476a4"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:04:47.156Z"
+  },
+  "url": "https://cs.sfsu.edu/event/gamification-and-playful-design-exploring-design-space-business-teaching-and-sports"
+},
+{
+  "_id": {
+    "$oid": "67d88e84b5fa5a6edfaad4ae"
+  },
+  "source_id": {
+    "$oid": "67d78ed3543bdb119ef476a6"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:05:08.459Z"
+  },
+  "url": "https://cs.sfsu.edu/people/rodrigo-oliveira"
+},
+{
+  "_id": {
+    "$oid": "67d88e9fb5fa5a6edfaad4b1"
+  },
+  "source_id": {
+    "$oid": "67d78ed6543bdb119ef476a7"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:05:35.085Z"
+  },
+  "url": "https://cs.sfsu.edu/events/2023"
+},
+{
+  "_id": {
+    "$oid": "67d88ebeb5fa5a6edfaad4b9"
+  },
+  "source_id": {
+    "$oid": "67d78ed7543bdb119ef476ae"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:06:06.123Z"
+  },
+  "url": "https://cs.sfsu.edu/undergrads/student-policies"
+},
+{
+  "_id": {
+    "$oid": "67d88ed5b5fa5a6edfaad4ba"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78eda543bdb119ef476b0"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:06:29.166Z"
+  },
+  "url": "https://cs.sfsu.edu/people/julia-cluceru-1"
+},
+{
+  "_id": {
+    "$oid": "67d88eecb5fa5a6edfaad4bf"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78edc543bdb119ef476b2"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:06:52.365Z"
+  },
+  "url": "https://cs.sfsu.edu/people/isabel-hyo-jung-song"
+},
+{
+  "_id": {
+    "$oid": "67d88f04b5fa5a6edfaad4c5"
+  },
+  "source_id": {
+    "$oid": "67d78edd543bdb119ef476b7"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:07:16.068Z"
+  },
+  "url": "https://cs.sfsu.edu/grads/graduate-program"
+},
+{
+  "_id": {
+    "$oid": "67d88f17b5fa5a6edfaad4c7"
+  },
+  "source_id": {
+    "$oid": "67d78ede543bdb119ef476b8"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:07:35.671Z"
+  },
+  "url": "https://cs.sfsu.edu/undergrads/prerequisite-chart"
+},
+{
+  "_id": {
+    "$oid": "67d88f29b5fa5a6edfaad4c9"
+  },
+  "source_id": {
+    "$oid": "67d78ee0543bdb119ef476b9"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:07:53.510Z"
+  },
+  "url": "https://cs.sfsu.edu/event/graduate-seminar-application-mathematical-modeling-and-machine-learning-optimizing-network"
+},
+{
+  "_id": {
+    "$oid": "67d88f5ab5fa5a6edfaad4ca"
+  },
+  "source_id": {
+    "$oid": "67d78ee3543bdb119ef476ba"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:08:42.814Z"
+  },
+  "url": "https://cs.sfsu.edu/grads/masters-theses-and-projects"
+},
+{
+  "_id": {
+    "$oid": "67d88f6fb5fa5a6edfaad4cf"
+  },
+  "source_id": {
+    "$oid": "67d78ee4543bdb119ef476bb"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:09:03.320Z"
+  },
+  "url": "https://cs.sfsu.edu/build-diverse-multidisciplinary-computer-science-workforce-future"
+},
+{
+  "_id": {
+    "$oid": "67d88f87b5fa5a6edfaad4d5"
+  },
+  "source_id": {
+    "$oid": "67d78ee5543bdb119ef476bc"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:09:27.769Z"
+  },
+  "url": "https://cs.sfsu.edu/justice-equity-diversity-and-inclusion-jedi"
+},
+{
+  "_id": {
+    "$oid": "67d88fa0b5fa5a6edfaad4d6"
+  },
+  "source_id": {
+    "$oid": "67d78ee7543bdb119ef476be"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:09:52.808Z"
+  },
+  "url": "https://cs.sfsu.edu/people/jonathan-jacobson"
+},
+{
+  "_id": {
+    "$oid": "67d88fc4b5fa5a6edfaad4d9"
+  },
+  "source_id": {
+    "$oid": "67d78ee8543bdb119ef476c0"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:10:28.462Z"
+  },
+  "url": "https://cs.sfsu.edu/news/kulkarni-lab-receives-grant-smith-kettlewell-eye-research-institute"
+},
+{
+  "_id": {
+    "$oid": "67d88fdab5fa5a6edfaad4df"
+  },
+  "source_id": {
+    "$oid": "67d78ee9543bdb119ef476c2"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:10:50.285Z"
+  },
+  "url": "https://cs.sfsu.edu/people/ilmi-yoon"
+},
+{
+  "_id": {
+    "$oid": "67d88feeb5fa5a6edfaad4e1"
+  },
+  "source_id": {
+    "$oid": "67d78eec543bdb119ef476c3"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:11:10.501Z"
+  },
+  "url": "https://cs.sfsu.edu/event/introduction-programming-quantum-computers"
+},
+{
+  "_id": {
+    "$oid": "67d89015b5fa5a6edfaad4f2"
+  },
+  "source_id": {
+    "$oid": "67d78eee543bdb119ef476c7"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:11:49.882Z"
+  },
+  "url": "https://cs.sfsu.edu/people/dragutin-petkovic"
+},
+{
+  "_id": {
+    "$oid": "67d89026b5fa5a6edfaad4f3"
+  },
+  "source_id": {
+    "$oid": "67d78eef543bdb119ef476c9"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:12:06.852Z"
+  },
+  "url": "https://cs.sfsu.edu/people/ivan-corneillet"
+},
+{
+  "_id": {
+    "$oid": "67d8903ab5fa5a6edfaad4f6"
+  },
+  "source_id": {
+    "$oid": "67d78ef1543bdb119ef476ca"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:12:26.209Z"
+  },
+  "url": "https://cs.sfsu.edu/overview"
+},
+{
+  "_id": {
+    "$oid": "67d8904db5fa5a6edfaad4f8"
+  },
+  "source_id": {
+    "$oid": "67d78ef3543bdb119ef476cb"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:12:45.322Z"
+  },
+  "url": "https://cs.sfsu.edu/event/byzantine-resilient-reinforcement-learning-multi-uav-systems"
+},
+{
+  "_id": {
+    "$oid": "67d89061b5fa5a6edfaad4fa"
+  },
+  "source_id": {
+    "$oid": "67d78ef5543bdb119ef476cc"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:13:05.374Z"
+  },
+  "url": "https://cs.sfsu.edu/research-areas"
+},
+{
+  "_id": {
+    "$oid": "67d89076b5fa5a6edfaad4ff"
+  },
+  "source_id": {
+    "$oid": "67d78ef6543bdb119ef476cf"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:13:26.754Z"
+  },
+  "url": "https://cs.sfsu.edu/advanced-computational-technology-research"
+},
+{
+  "_id": {
+    "$oid": "67d890c8b5fa5a6edfaad537"
+  },
+  "source_id": {
+    "$oid": "67d78ef7543bdb119ef476d0"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:14:48.717Z"
+  },
+  "url": "https://cs.sfsu.edu/constitution"
+},
+{
+  "_id": {
+    "$oid": "67d890ebb5fa5a6edfaad53e"
+  },
+  "source_id": {
+    "$oid": "67d78ef9543bdb119ef476d3"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:15:23.432Z"
+  },
+  "url": "https://cs.sfsu.edu/grads/forms"
+},
+{
+  "_id": {
+    "$oid": "67d890feb5fa5a6edfaad53f"
+  },
+  "source_id": {
+    "$oid": "67d78efa543bdb119ef476d5"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:15:42.028Z"
+  },
+  "url": "https://cs.sfsu.edu/john-roberts"
+},
+{
+  "_id": {
+    "$oid": "67d89110b5fa5a6edfaad541"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78efe543bdb119ef476d7"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:16:00.036Z"
+  },
+  "url": "https://cs.sfsu.edu/news/bethel-huang-awarded-us-department-energy-research-grant-quantum-computing"
+},
+{
+  "_id": {
+    "$oid": "67d89135b5fa5a6edfaad54c"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78f01543bdb119ef476dd"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:16:37.012Z"
+  },
+  "url": "https://cs.sfsu.edu/undergrads/advising"
+},
+{
+  "_id": {
+    "$oid": "67d89148b5fa5a6edfaad54e"
+  },
+  "source_id": {
+    "$oid": "67d78f02543bdb119ef476df"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:16:56.049Z"
+  },
+  "url": "https://cs.sfsu.edu/event/cs-research-special-interest-group"
+},
+{
+  "_id": {
+    "$oid": "67d89170b5fa5a6edfaad55d"
+  },
+  "source_id": {
+    "$oid": "67d78f04543bdb119ef476e7"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:17:36.581Z"
+  },
+  "url": "https://cs.sfsu.edu/graduate-certificates"
+},
+{
+  "_id": {
+    "$oid": "67d89184b5fa5a6edfaad560"
+  },
+  "source_id": {
+    "$oid": "67d78f05543bdb119ef476e9"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:17:56.516Z"
+  },
+  "url": "https://cs.sfsu.edu/people/james-wong"
+},
+{
+  "_id": {
+    "$oid": "67d89197b5fa5a6edfaad562"
+  },
+  "source_id": {
+    "$oid": "67d78f07543bdb119ef476ea"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:18:15.877Z"
+  },
+  "url": "https://cs.sfsu.edu/event/quantum-computing-what-it-exactly"
+},
+{
+  "_id": {
+    "$oid": "67d891b2b5fa5a6edfaad565"
+  },
+  "source_id": {
+    "$oid": "67d78f08543bdb119ef476eb"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:18:42.244Z"
+  },
+  "url": "https://cs.sfsu.edu/event/compression-transformation-efficient-deep-learning-mobile-devices-and-llms-education"
+},
+{
+  "_id": {
+    "$oid": "67d891c7b5fa5a6edfaad569"
+  },
+  "source_id": {
+    "$oid": "67d78f09543bdb119ef476ed"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:19:03.484Z"
+  },
+  "url": "https://cs.sfsu.edu/people/william-hsu"
+},
+{
+  "_id": {
+    "$oid": "67d891deb5fa5a6edfaad56e"
+  },
+  "source_id": {
+    "$oid": "67d78f0b543bdb119ef476ef"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:19:26.275Z"
+  },
+  "url": "https://cs.sfsu.edu/timothy-sun"
+},
+{
+  "_id": {
+    "$oid": "67d891f0b5fa5a6edfaad56f"
+  },
+  "source_id": {
+    "$oid": "67d78f0c543bdb119ef476f1"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:19:44.640Z"
+  },
+  "url": "https://cs.sfsu.edu/people/jennifer-nelson"
+},
+{
+  "_id": {
+    "$oid": "67d89213b5fa5a6edfaad570"
+  },
+  "source_id": {
+    "$oid": "67d78f0e543bdb119ef476f2"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:20:19.592Z"
+  },
+  "url": "https://cs.sfsu.edu/advising"
+},
+{
+  "_id": {
+    "$oid": "67d8922bb5fa5a6edfaad572"
+  },
+  "source_id": {
+    "$oid": "67d78f0f543bdb119ef476f3"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:20:43.134Z"
+  },
+  "url": "https://cs.sfsu.edu/event/genomics-and-deep-sea-microbiology-computational-innovations-biological-research"
+},
+{
+  "_id": {
+    "$oid": "67d8924fb5fa5a6edfaad579"
+  },
+  "source_id": {
+    "$oid": "67d78f10543bdb119ef476f5"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:21:19.111Z"
+  },
+  "url": "https://cs.sfsu.edu/undergrads/funding-scholarships"
+},
+{
+  "_id": {
+    "$oid": "67d89264b5fa5a6edfaad57c"
+  },
+  "source_id": {
+    "$oid": "67d78f12543bdb119ef476f6"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:21:40.680Z"
+  },
+  "url": "https://cs.sfsu.edu/employment"
+},
+{
+  "_id": {
+    "$oid": "67d8927eb5fa5a6edfaad580"
+  },
+  "source_id": {
+    "$oid": "67d78f13543bdb119ef476f7"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:22:06.694Z"
+  },
+  "url": "https://cs.sfsu.edu/news"
+},
+{
+  "_id": {
+    "$oid": "67d892a4b5fa5a6edfaad581"
+  },
+  "source_id": {
+    "$oid": "67d78f14543bdb119ef476f8"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:22:44.600Z"
+  },
+  "url": "https://cs.sfsu.edu/anagha-kulkarni"
+},
+{
+  "_id": {
+    "$oid": "67d892c2b5fa5a6edfaad587"
+  },
+  "source_id": {
+    "$oid": "67d78f16543bdb119ef476fd"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:23:14.597Z"
+  },
+  "url": "https://cs.sfsu.edu/grads/advising"
+},
+{
+  "_id": {
+    "$oid": "67d892d8b5fa5a6edfaad588"
+  },
+  "source_id": {
+    "$oid": "67d78f17543bdb119ef476ff"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:23:36.604Z"
+  },
+  "url": "https://cs.sfsu.edu/people/kasey-chen"
+},
+{
+  "_id": {
+    "$oid": "67d892f6b5fa5a6edfaad58a"
+  },
+  "source_id": {
+    "$oid": "67d78f18543bdb119ef47700"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:24:06.637Z"
+  },
+  "url": "https://cs.sfsu.edu/news/leaping-world-computer-science-help-googles-csrmp"
+},
+{
+  "_id": {
+    "$oid": "67d8930fb5fa5a6edfaad592"
+  },
+  "source_id": {
+    "$oid": "67d78f1a543bdb119ef47703"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:24:31.994Z"
+  },
+  "url": "https://cs.sfsu.edu/data-perceptualization-and-user-experience"
+},
+{
+  "_id": {
+    "$oid": "67d89325b5fa5a6edfaad595"
+  },
+  "source_id": {
+    "$oid": "67d78f1b543bdb119ef47704"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:24:53.326Z"
+  },
+  "url": "https://cs.sfsu.edu/event/san-francisco-state-university-graduate-certificate-ethical-ai-overview-and-early-experiences"
+},
+{
+  "_id": {
+    "$oid": "67d8933cb5fa5a6edfaad598"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78f1d543bdb119ef47705"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:25:16.597Z"
+  },
+  "url": "https://cs.sfsu.edu/event/graduate-seminar-beyond-reality-crafting-future-workforce-training-ai-driven-immersive"
+},
+{
+  "_id": {
+    "$oid": "67d89350b5fa5a6edfaad59a"
+  },
+  "source_id": {
+    "$oid": "67d78f1f543bdb119ef47706"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:25:36.540Z"
+  },
+  "url": "https://cs.sfsu.edu/event/graduate-seminar-safe-and-reliable-ai"
+},
+{
+  "_id": {
+    "$oid": "67d89370b5fa5a6edfaad5a0"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78f20543bdb119ef47707"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:26:08.442Z"
+  },
+  "url": "https://cs.sfsu.edu/tags/tags/grant"
+},
+{
+  "_id": {
+    "$oid": "67d89382b5fa5a6edfaad5a2"
+  },
+  "source_id": {
+    "$oid": "67d78f23543bdb119ef47708"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:26:26.904Z"
+  },
+  "url": "https://cs.sfsu.edu/event/stanford-cybersecurity-cert-clinics-and-competitions"
+},
+{
+  "_id": {
+    "$oid": "67d893a0b5fa5a6edfaad5a5"
+  },
+  "source_id": {
+    "$oid": "67d78f24543bdb119ef47709"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:26:56.910Z"
+  },
+  "url": "https://cs.sfsu.edu/events"
+},
+{
+  "_id": {
+    "$oid": "67d893b6b5fa5a6edfaad5a6"
+  },
+  "source_id": {
+    "$oid": "67d78f26543bdb119ef4770b"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:27:18.198Z"
+  },
+  "url": "https://cs.sfsu.edu/people/andrew-scott"
+},
+{
+  "_id": {
+    "$oid": "67d893d4b5fa5a6edfaad5a9"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78f27543bdb119ef4770c"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:27:48.380Z"
+  },
+  "url": "https://cs.sfsu.edu/event/ai-entrepreneurship"
+},
+{
+  "_id": {
+    "$oid": "67d893f6b5fa5a6edfaad5ad"
+  },
+  "source_id": {
+    "$oid": "67d78f28543bdb119ef4770f"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:28:22.162Z"
+  },
+  "url": "https://cs.sfsu.edu/hui-yang"
+},
+{
+  "_id": {
+    "$oid": "67d89420b5fa5a6edfaad5b0"
+  },
+  "source_id": {
+    "$oid": "67d78f2a543bdb119ef47710"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:29:04.101Z"
+  },
+  "url": "https://cs.sfsu.edu/event/intelligent-vocational-storytelling-virtual-reality-system-augmenting-work-performance"
+},
+{
+  "_id": {
+    "$oid": "67d89436b5fa5a6edfaad5b1"
+  },
+  "source_id": {
+    "$oid": "67d78f2b543bdb119ef47712"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:29:26.538Z"
+  },
+  "url": "https://cs.sfsu.edu/people/sara-el-alaoui"
+},
+{
+  "_id": {
+    "$oid": "67d89463b5fa5a6edfaad5b2"
+  },
+  "source_id": {
+    "$oid": "67d78f2e543bdb119ef47713"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:30:11.504Z"
+  },
+  "url": "https://cs.sfsu.edu/dragutin-petkovic"
+},
+{
+  "_id": {
+    "$oid": "67d89475b5fa5a6edfaad5b4"
+  },
+  "source_id": {
+    "$oid": "67d78f2f543bdb119ef47714"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:30:29.467Z"
+  },
+  "url": "https://cs.sfsu.edu/news/fall-2023-engineering-and-computer-science-career-fair"
+},
+{
+  "_id": {
+    "$oid": "67d89494b5fa5a6edfaad5b9"
+  },
+  "source_id": {
+    "$oid": "67d78f30543bdb119ef47718"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:31:00.110Z"
+  },
+  "url": "https://cs.sfsu.edu/biotech-certificate-students-get-insider-peek-industry-jobs"
+},
+{
+  "_id": {
+    "$oid": "67d894aab5fa5a6edfaad5bc"
+  },
+  "source_id": {
+    "$oid": "67d78f33543bdb119ef4771a"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:31:22.075Z"
+  },
+  "url": "https://cs.sfsu.edu/event/graduate-seminar-towards-analyzing-online-communities-problematic-information-computational"
+},
+{
+  "_id": {
+    "$oid": "67d894c2b5fa5a6edfaad5bf"
+  },
+  "source_id": {
+    "$oid": "67d78f34543bdb119ef4771c"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:31:46.933Z"
+  },
+  "url": "https://cs.sfsu.edu/pacific-symposium-biocomputing-psb-2023"
+},
+{
+  "_id": {
+    "$oid": "67d894ddb5fa5a6edfaad5c6"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78f36543bdb119ef4771e"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:32:13.593Z"
+  },
+  "url": "https://cs.sfsu.edu/prospective-undergraduates"
+},
+{
+  "_id": {
+    "$oid": "67d894f3b5fa5a6edfaad5c7"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78f37543bdb119ef4771f"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:32:35.337Z"
+  },
+  "url": "https://cs.sfsu.edu/people/timothy-sun"
+},
+{
+  "_id": {
+    "$oid": "67d8950eb5fa5a6edfaad5cb"
+  },
+  "source_id": {
+    "$oid": "67d78f38543bdb119ef47721"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:33:02.228Z"
+  },
+  "url": "https://cs.sfsu.edu/people/shah-rukh-humayoun"
+},
+{
+  "_id": {
+    "$oid": "67d89525b5fa5a6edfaad5cc"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78f3a543bdb119ef47723"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:33:25.861Z"
+  },
+  "url": "https://cs.sfsu.edu/people/robert-bierman"
+},
+{
+  "_id": {
+    "$oid": "67d89548b5fa5a6edfaad5cf"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78f3b543bdb119ef47724"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:34:00.441Z"
+  },
+  "url": "https://cs.sfsu.edu/event/graduate-seminar-global-investigation-network-connection-tampering"
+},
+{
+  "_id": {
+    "$oid": "67d8955fb5fa5a6edfaad5d0"
+  },
+  "source_id": {
+    "$oid": "67d78f3c543bdb119ef47725"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:34:23.056Z"
+  },
+  "url": "https://cs.sfsu.edu/isabel-hyo-jung-son"
+},
+{
+  "_id": {
+    "$oid": "67d89571b5fa5a6edfaad5d2"
+  },
+  "source_id": {
+    "$oid": "67d78f3e543bdb119ef47726"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:34:41.473Z"
+  },
+  "url": "https://cs.sfsu.edu/news/cisco-meraki-campus-visit"
+},
+{
+  "_id": {
+    "$oid": "67d89584b5fa5a6edfaad5d3"
+  },
+  "source_id": {
+    "$oid": "67d78f3f543bdb119ef47727"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:35:00.440Z"
+  },
+  "url": "https://cs.sfsu.edu/william-hsu"
+},
+{
+  "_id": {
+    "$oid": "67d8959eb5fa5a6edfaad5d4"
+  },
+  "source_id": {
+    "$oid": "67d78f40543bdb119ef47728"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:35:26.419Z"
+  },
+  "url": "https://cs.sfsu.edu/people/robert-mateescu"
+},
+{
+  "_id": {
+    "$oid": "67d895b5b5fa5a6edfaad5d5"
+  },
+  "source_id": {
+    "$oid": "67d78f42543bdb119ef47729"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:35:49.202Z"
+  },
+  "url": "https://cs.sfsu.edu/cs-graduate-seminars"
+},
+{
+  "_id": {
+    "$oid": "67d895cbb5fa5a6edfaad5d8"
+  },
+  "source_id": {
+    "$oid": "67d78f44543bdb119ef4772a"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:36:11.881Z"
+  },
+  "url": "https://cs.sfsu.edu/event/graduate-seminar-iterative-join-graph-propagation"
+},
+{
+  "_id": {
+    "$oid": "67d895deb5fa5a6edfaad5da"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78f46543bdb119ef4772b"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:36:30.830Z"
+  },
+  "url": "https://cs.sfsu.edu/event/graduate-seminar-coders-wanted-computational-opportunities-aquatic-and-biological-sciences"
+},
+{
+  "_id": {
+    "$oid": "67d895fab5fa5a6edfaad5dd"
+  },
+  "source_id": {
+    "$oid": "67d78f47543bdb119ef4772c"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:36:58.403Z"
+  },
+  "url": "https://cs.sfsu.edu/event/how-can-we-decarbonize-power-grid-and-meet-ais-exploding-power-demands"
+},
+{
+  "_id": {
+    "$oid": "67d89613b5fa5a6edfaad5de"
+  },
+  "source_id": {
+    "$oid": "67d78f48543bdb119ef4772e"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:37:23.016Z"
+  },
+  "url": "https://cs.sfsu.edu/jose-ortiz-costa"
+},
+{
+  "_id": {
+    "$oid": "67d8962eb5fa5a6edfaad5e0"
+  },
+  "source_id": {
+    "$oid": "67d78f4a543bdb119ef4772f"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:37:50.730Z"
+  },
+  "url": "https://cs.sfsu.edu/event/overview-computer-science-graduate-program"
+},
+{
+  "_id": {
+    "$oid": "67d89651b5fa5a6edfaad5f0"
+  },
+  "source_id": {
+    "$oid": "67d78f4c543bdb119ef47734"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:38:25.648Z"
+  },
+  "url": "https://cs.sfsu.edu/grads/sequence-of-study"
+},
+{
+  "_id": {
+    "$oid": "67d8966ab5fa5a6edfaad5f8"
+  },
+  "source_id": {
+    "$oid": "67d78f4e543bdb119ef47739"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:38:50.649Z"
+  },
+  "url": "https://cs.sfsu.edu/internships-and-job-opportunities"
+},
+{
+  "_id": {
+    "$oid": "67d89685b5fa5a6edfaad5fd"
+  },
+  "source_id": {
+    "$oid": "67d78f4f543bdb119ef4773a"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:39:17.926Z"
+  },
+  "url": "http://cs.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d896a5b5fa5a6edfaad600"
+  },
+  "source_id": {
+    "$oid": "67d78f51543bdb119ef4773c"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:39:49.432Z"
+  },
+  "url": "https://cs.sfsu.edu/news/computer-science-researchers-receive-us-department-energy-grant"
+},
+{
+  "_id": {
+    "$oid": "67d896c1b5fa5a6edfaad602"
+  },
+  "source_id": {
+    "$oid": "67d78f52543bdb119ef4773d"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:40:17.540Z"
+  },
+  "url": "https://cs.sfsu.edu/news/cs-department-graduation-celebration-2023"
+},
+{
+  "_id": {
+    "$oid": "67d896d6b5fa5a6edfaad605"
+  },
+  "source_id": {
+    "$oid": "67d78f53543bdb119ef4773e"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:40:38.326Z"
+  },
+  "url": "https://cs.sfsu.edu/event/graduate-seminar-graded-logic-ai-applications"
+},
+{
+  "_id": {
+    "$oid": "67d896e8b5fa5a6edfaad607"
+  },
+  "source_id": {
+    "$oid": "67d78f55543bdb119ef4773f"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:40:56.939Z"
+  },
+  "url": "https://cs.sfsu.edu/event/graduate-seminar-developing-robots-dynamic-safety-critical-environments"
+},
+{
+  "_id": {
+    "$oid": "67d896fbb5fa5a6edfaad609"
+  },
+  "source_id": {
+    "$oid": "67d78f57543bdb119ef47741"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:41:15.715Z"
+  },
+  "url": "https://cs.sfsu.edu/support-cs"
+},
+{
+  "_id": {
+    "$oid": "67d89718b5fa5a6edfaad60a"
+  },
+  "source_id": {
+    "$oid": "67d78f58543bdb119ef47743"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:41:44.993Z"
+  },
+  "url": "https://cs.sfsu.edu/people/shubh-pachchigar"
+},
+{
+  "_id": {
+    "$oid": "67d89739b5fa5a6edfaad60d"
+  },
+  "source_id": {
+    "$oid": "67d78f59543bdb119ef47744"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:42:17.315Z"
+  },
+  "url": "https://cs.sfsu.edu/tags/tags/jobs"
+},
+{
+  "_id": {
+    "$oid": "67d8974eb5fa5a6edfaad60e"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78f5b543bdb119ef47746"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:42:38.048Z"
+  },
+  "url": "https://cs.sfsu.edu/jingyi-wang"
+},
+{
+  "_id": {
+    "$oid": "67d89763b5fa5a6edfaad611"
+  },
+  "source_id": {
+    "$oid": "67d78f5c543bdb119ef47747"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:42:59.863Z"
+  },
+  "url": "https://cs.sfsu.edu/tags/tags/certificate"
+},
+{
+  "_id": {
+    "$oid": "67d8977cb5fa5a6edfaad612"
+  },
+  "source_id": {
+    "$oid": "67d78f5d543bdb119ef47748"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:43:24.322Z"
+  },
+  "url": "https://cs.sfsu.edu/people/hui-yang"
+},
+{
+  "_id": {
+    "$oid": "67d8978cb5fa5a6edfaad613"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78f5f543bdb119ef4774a"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:43:40.037Z"
+  },
+  "url": "https://cs.sfsu.edu/people/briana-miranda"
+},
+{
+  "_id": {
+    "$oid": "67d8979cb5fa5a6edfaad615"
+  },
+  "source_id": {
+    "$oid": "67d78f60543bdb119ef4774c"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:43:56.369Z"
+  },
+  "url": "https://cs.sfsu.edu/news/computer-science-biology-and-psychology-faculty-receive-renewal-award-genentech-inc"
+},
+{
+  "_id": {
+    "$oid": "67d897c0b5fa5a6edfaad625"
+  },
+  "source_id": {
+    "$oid": "67d78f61543bdb119ef47754"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:44:32.013Z"
+  },
+  "url": "https://cs.sfsu.edu/ai-staars-program"
+},
+{
+  "_id": {
+    "$oid": "67d897d4b5fa5a6edfaad628"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78f63543bdb119ef47755"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:44:52.151Z"
+  },
+  "url": "https://cs.sfsu.edu/event/graduate-seminar-towards-device-intelligence-through-deep-learning-compression"
+},
+{
+  "_id": {
+    "$oid": "67d897e4b5fa5a6edfaad629"
+  },
+  "source_id": {
+    "$oid": "67d78f64543bdb119ef47757"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:45:08.794Z"
+  },
+  "url": "https://cs.sfsu.edu/people/mark-davis"
+},
+{
+  "_id": {
+    "$oid": "67d897fbb5fa5a6edfaad62b"
+  },
+  "source_id": {
+    "$oid": "67d78f67543bdb119ef47758"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:45:31.184Z"
+  },
+  "url": "https://cs.sfsu.edu/event/machine-learning-and-artificial-intelligence-healthcare-infectious-diseases-case-study-and"
+},
+{
+  "_id": {
+    "$oid": "67d897fcb5fa5a6edfaad62d"
+  },
+  "source_id": {
+    "$oid": "67d78f69543bdb119ef47759"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:45:32.207Z"
+  },
+  "url": "https://cs.sfsu.edu/rahul-singh"
+},
+{
+  "_id": {
+    "$oid": "67d89814b5fa5a6edfaad62e"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78f6a543bdb119ef4775a"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:45:56.301Z"
+  },
+  "url": "https://cs.sfsu.edu/grads/student-policies"
+},
+{
+  "_id": {
+    "$oid": "67d89826b5fa5a6edfaad62f"
+  },
+  "source_id": {
+    "$oid": "67d78f6b543bdb119ef4775b"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T14:46:14.542Z"
+  },
+  "url": "https://cs.sfsu.edu/people/michael-savvides"
+},
+{
+  "_id": {
+    "$oid": "67d8a701b5fa5a6edfaad631"
+  },
+  "source_id": {
+    "$oid": "67d78f6d543bdb119ef4775c"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T15:49:37.383Z"
+  },
+  "url": "https://cs.sfsu.edu/event/beyond-lens-detecting-bias-through-eye-tracking-measurements-and-computer-vision-techniques"
+},
+{
+  "_id": {
+    "$oid": "67d8a72cb5fa5a6edfaad633"
+  },
+  "source_id": {
+    "$oid": "67d78f6f543bdb119ef4775d"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T15:50:20.166Z"
+  },
+  "url": "https://cs.sfsu.edu/news/san-francisco-state-university-lecturer-duc-ta-earns-prestigious-teaching-award"
+},
+{
+  "_id": {
+    "$oid": "67d8a743b5fa5a6edfaad638"
+  },
+  "source_id": {
+    "$oid": "67d78f72543bdb119ef4775f"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T15:50:43.715Z"
+  },
+  "url": "https://cs.sfsu.edu/people/qun-wang"
+},
+{
+  "_id": {
+    "$oid": "67d8a763b5fa5a6edfaad639"
+  },
+  "source_id": {
+    "$oid": "67d78f73543bdb119ef47760"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T15:51:15.418Z"
+  },
+  "url": "https://cs.sfsu.edu/ilmi-yoon"
+},
+{
+  "_id": {
+    "$oid": "67d8a77eb5fa5a6edfaad63b"
+  },
+  "source_id": {
+    "$oid": "67d78f75543bdb119ef47761"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T15:51:42.621Z"
+  },
+  "url": "https://cs.sfsu.edu/news/ethical-ai-certificate-presentation-awarded-aaai-symposium-2023"
+},
+{
+  "_id": {
+    "$oid": "67d8a799b5fa5a6edfaad642"
+  },
+  "source_id": {
+    "$oid": "67d78f78543bdb119ef47764"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T15:52:09.502Z"
+  },
+  "url": "https://cs.sfsu.edu/artificial-intelligencemachine-learning"
+},
+{
+  "_id": {
+    "$oid": "67d8a7b5b5fa5a6edfaad647"
+  },
+  "source_id": {
+    "$oid": "67d78f79543bdb119ef47766"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T15:52:37.110Z"
+  },
+  "url": "https://cs.sfsu.edu/people/kaz-okada"
+},
+{
+  "_id": {
+    "$oid": "67d8a7ceb5fa5a6edfaad64b"
+  },
+  "source_id": {
+    "$oid": "67d78f7a543bdb119ef47769"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T15:53:02.195Z"
+  },
+  "url": "https://cs.sfsu.edu/people/arno-puder"
+},
+{
+  "_id": {
+    "$oid": "67d8a7e2b5fa5a6edfaad64c"
+  },
+  "source_id": {
+    "$oid": "67d78f7c543bdb119ef4776b"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T15:53:22.448Z"
+  },
+  "url": "https://cs.sfsu.edu/anthony-souza"
+},
+{
+  "_id": {
+    "$oid": "67d8a7f7b5fa5a6edfaad64e"
+  },
+  "source_id": {
+    "$oid": "67d78f7d543bdb119ef4776c"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T15:53:43.890Z"
+  },
+  "url": "https://cs.sfsu.edu/event/graduate-seminar-making-physical-models-maps-surfaces"
+},
+{
+  "_id": {
+    "$oid": "67d8a809b5fa5a6edfaad64f"
+  },
+  "source_id": {
+    "$oid": "67d78f7e543bdb119ef4776e"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T15:54:01.565Z"
+  },
+  "url": "https://cs.sfsu.edu/people/axel-ancona-esselmann"
+},
+{
+  "_id": {
+    "$oid": "67d8a821b5fa5a6edfaad651"
+  },
+  "source_id": {
+    "$oid": "67d78f80543bdb119ef4776f"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T15:54:25.584Z"
+  },
+  "url": "https://cs.sfsu.edu/event/graduate-seminar-computational-approaches-understanding-perception-and-brain"
+},
+{
+  "_id": {
+    "$oid": "67d8a834b5fa5a6edfaad652"
+  },
+  "source_id": {
+    "$oid": "67d78f81543bdb119ef47771"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T15:54:44.719Z"
+  },
+  "url": "https://cs.sfsu.edu/people/brian-parra"
+},
+{
+  "_id": {
+    "$oid": "67d8a846b5fa5a6edfaad653"
+  },
+  "source_id": {
+    "$oid": "67d78f83543bdb119ef47773"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T15:55:02.745Z"
+  },
+  "url": "https://cs.sfsu.edu/henry-villar"
+},
+{
+  "_id": {
+    "$oid": "67d8a85cb5fa5a6edfaad655"
+  },
+  "source_id": {
+    "$oid": "67d78f84543bdb119ef47774"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T15:55:24.824Z"
+  },
+  "url": "https://cs.sfsu.edu/event/graduate-seminar-what-quantum-computing-and-why-would-you-care"
+},
+{
+  "_id": {
+    "$oid": "67d8a876b5fa5a6edfaad656"
+  },
+  "source_id": {
+    "$oid": "67d78f85543bdb119ef47775"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T15:55:50.441Z"
+  },
+  "url": "https://cs.sfsu.edu/news-list"
+},
+{
+  "_id": {
+    "$oid": "67d8a88db5fa5a6edfaad65b"
+  },
+  "source_id": {
+    "$oid": "67d78f87543bdb119ef47776"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T15:56:13.671Z"
+  },
+  "url": "https://cs.sfsu.edu/external-advisory-board"
+},
+{
+  "_id": {
+    "$oid": "67d8a8a5b5fa5a6edfaad65c"
+  },
+  "source_id": {
+    "$oid": "67d78f88543bdb119ef47777"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T15:56:37.729Z"
+  },
+  "url": "https://cs.sfsu.edu/kaz-okada"
+},
+{
+  "_id": {
+    "$oid": "67d8a8b9b5fa5a6edfaad65e"
+  },
+  "source_id": {
+    "$oid": "67d78f8b543bdb119ef47778"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T15:56:57.646Z"
+  },
+  "url": "https://cs.sfsu.edu/news/instructor-joseph-hui-featured-cbs-news-commitment-helping-youth"
+},
+{
+  "_id": {
+    "$oid": "67d8a8cdb5fa5a6edfaad65f"
+  },
+  "source_id": {
+    "$oid": "67d78f8c543bdb119ef47779"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T15:57:17.078Z"
+  },
+  "url": "https://cs.sfsu.edu/node/218"
+},
+{
+  "_id": {
+    "$oid": "67d8a8deb5fa5a6edfaad660"
+  },
+  "source_id": {
+    "$oid": "67d78f8d543bdb119ef4777b"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T15:57:34.907Z"
+  },
+  "url": "https://cs.sfsu.edu/people/hugh-hui"
+},
+{
+  "_id": {
+    "$oid": "67d8a8f3b5fa5a6edfaad661"
+  },
+  "source_id": {
+    "$oid": "67d78f8f543bdb119ef4777d"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T15:57:55.292Z"
+  },
+  "url": "https://cs.sfsu.edu/robert-douglas"
+},
+{
+  "_id": {
+    "$oid": "67d8a907b5fa5a6edfaad663"
+  },
+  "source_id": {
+    "$oid": "67d78f90543bdb119ef4777e"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T15:58:15.432Z"
+  },
+  "url": "https://cs.sfsu.edu/news/cs-department-college-tour"
+},
+{
+  "_id": {
+    "$oid": "67d8a91bb5fa5a6edfaad667"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78f93543bdb119ef47784"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T15:58:35.641Z"
+  },
+  "url": "https://cs.sfsu.edu/undergrads/undergraduate-program"
+},
+{
+  "_id": {
+    "$oid": "67d8a930b5fa5a6edfaad668"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78f94543bdb119ef47786"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T15:58:56.285Z"
+  },
+  "url": "https://cs.sfsu.edu/people/nina-mir"
+},
+{
+  "_id": {
+    "$oid": "67d8a94eb5fa5a6edfaad66e"
+  },
+  "source_id": {
+    "$oid": "67d78f96543bdb119ef47789"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T15:59:26.935Z"
+  },
+  "url": "https://cs.sfsu.edu/undergrads/forms"
+},
+{
+  "_id": {
+    "$oid": "67d8a963b5fa5a6edfaad671"
+  },
+  "source_id": {
+    "$oid": "67d78f97543bdb119ef4778a"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T15:59:47.662Z"
+  },
+  "url": "https://cs.sfsu.edu/event/graduate-seminar-learning-after-graduation"
+},
+{
+  "_id": {
+    "$oid": "67d8a979b5fa5a6edfaad672"
+  },
+  "source_id": {
+    "$oid": "67d78f99543bdb119ef4778c"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:00:09.424Z"
+  },
+  "url": "https://cs.sfsu.edu/people/yuki-huynh"
+},
+{
+  "_id": {
+    "$oid": "67d8a998b5fa5a6edfaad673"
+  },
+  "source_id": {
+    "$oid": "67d78f9b543bdb119ef4778e"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:00:40.404Z"
+  },
+  "url": "https://cs.sfsu.edu/people/abdur-sikder"
+},
+{
+  "_id": {
+    "$oid": "67d8a9acb5fa5a6edfaad674"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78f9c543bdb119ef47790"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:01:00.203Z"
+  },
+  "url": "https://cs.sfsu.edu/people/lawrence-kroll"
+},
+{
+  "_id": {
+    "$oid": "67d8a9c4b5fa5a6edfaad676"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78f9e543bdb119ef47792"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:01:24.547Z"
+  },
+  "url": "https://cs.sfsu.edu/event/unlock-your-future-join-our-seminar-landing-your-first-software-engineer-job"
+},
+{
+  "_id": {
+    "$oid": "67d8a9e3b5fa5a6edfaad677"
+  },
+  "source_id": {
+    "$oid": "67d78f9f543bdb119ef47793"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:01:55.385Z"
+  },
+  "url": "https://cs.sfsu.edu/undergrads/prospective-undergraduates"
+},
+{
+  "_id": {
+    "$oid": "67d8aa03b5fa5a6edfaad678"
+  },
+  "source_id": {
+    "$oid": "67d78fa1543bdb119ef47794"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:02:27.289Z"
+  },
+  "url": "https://cs.sfsu.edu/events/2024"
+},
+{
+  "_id": {
+    "$oid": "67d8aa1ab5fa5a6edfaad67a"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78fa2543bdb119ef47796"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:02:50.868Z"
+  },
+  "url": "https://cs.sfsu.edu/news/person-hackathon-makes-triumphant-return-campus"
+},
+{
+  "_id": {
+    "$oid": "67d8aa31b5fa5a6edfaad67c"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78fa3543bdb119ef47797"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:03:13.201Z"
+  },
+  "url": "https://cs.sfsu.edu/event/climate-change-hot-air-environmental-justice"
+},
+{
+  "_id": {
+    "$oid": "67d8aa47b5fa5a6edfaad67d"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78fa5543bdb119ef47799"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:03:35.925Z"
+  },
+  "url": "https://cs.sfsu.edu/matt-pico"
+},
+{
+  "_id": {
+    "$oid": "67d8aa5db5fa5a6edfaad680"
+  },
+  "source_id": {
+    "$oid": "67d78fa6543bdb119ef4779a"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:03:57.947Z"
+  },
+  "url": "https://cs.sfsu.edu/sf-state-science-coding-programs-boost-biotech-diversity"
+},
+{
+  "_id": {
+    "$oid": "67d8aa76b5fa5a6edfaad681"
+  },
+  "source_id": {
+    "$oid": "67d78fa7543bdb119ef4779c"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:04:22.098Z"
+  },
+  "url": "https://cs.sfsu.edu/people/karun-mehta"
+},
+{
+  "_id": {
+    "$oid": "67d8aa91b5fa5a6edfaad682"
+  },
+  "source_id": {
+    "$oid": "67d78faa543bdb119ef4779d"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:04:49.139Z"
+  },
+  "url": "https://cs.sfsu.edu/arno-puder"
+},
+{
+  "_id": {
+    "$oid": "67d8aab3b5fa5a6edfaad683"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78fab543bdb119ef4779f"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:05:23.017Z"
+  },
+  "url": "https://cs.sfsu.edu/daniel-tomasevich"
+},
+{
+  "_id": {
+    "$oid": "67d8aaceb5fa5a6edfaad686"
+  },
+  "source_id": {
+    "$oid": "67d78fac543bdb119ef477a0"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:05:50.908Z"
+  },
+  "url": "https://cs.sfsu.edu/news/prof-daniel-huang-recipient-2023-petkovic-family-teaching-excellence-award"
+},
+{
+  "_id": {
+    "$oid": "67d8aae3b5fa5a6edfaad687"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78fae543bdb119ef477a1"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:06:11.828Z"
+  },
+  "url": "https://cs.sfsu.edu/news-events"
+},
+{
+  "_id": {
+    "$oid": "67d8aaf5b5fa5a6edfaad688"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78faf543bdb119ef477a2"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:06:29.327Z"
+  },
+  "url": "https://cs.sfsu.edu/cs-colloquium"
+},
+{
+  "_id": {
+    "$oid": "67d8ab0ab5fa5a6edfaad68b"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78fb1543bdb119ef477a3"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:06:50.374Z"
+  },
+  "url": "https://cs.sfsu.edu/research-labs"
+},
+{
+  "_id": {
+    "$oid": "67d8ab1fb5fa5a6edfaad68c"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78fb2543bdb119ef477a4"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:07:11.610Z"
+  },
+  "url": "https://cs.sfsu.edu/james-wong"
+},
+{
+  "_id": {
+    "$oid": "67d8ab3db5fa5a6edfaad68e"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78fb3543bdb119ef477a6"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:07:41.248Z"
+  },
+  "url": "https://cs.sfsu.edu/news/ai-staars-program-awards-scholarships-20-computer-science-freshman"
+},
+{
+  "_id": {
+    "$oid": "67d8ab52b5fa5a6edfaad691"
+  },
+  "source_id": {
+    "$oid": "67d78fb5543bdb119ef477a7"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:08:02.341Z"
+  },
+  "url": "https://cs.sfsu.edu/cybersecurity-research"
+},
+{
+  "_id": {
+    "$oid": "67d8ab67b5fa5a6edfaad693"
+  },
+  "source_id": {
+    "$oid": "67d78fb8543bdb119ef477ac"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:08:23.531Z"
+  },
+  "url": "https://cs.sfsu.edu/people"
+},
+{
+  "_id": {
+    "$oid": "67d8ab7db5fa5a6edfaad695"
+  },
+  "source_id": {
+    "$oid": "67d78fb9543bdb119ef477af"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:08:45.239Z"
+  },
+  "url": "https://cs.sfsu.edu/news/sf-state-program-prepares-participants-view-ai-through-ethical-lens"
+},
+{
+  "_id": {
+    "$oid": "67d8ab94b5fa5a6edfaad69a"
+  },
+  "source_id": {
+    "$oid": "67d78fbb543bdb119ef477b1"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:09:08.953Z"
+  },
+  "url": "https://cs.sfsu.edu/jozo-dujmovic"
+},
+{
+  "_id": {
+    "$oid": "67d8aba7b5fa5a6edfaad69b"
+  },
+  "source_id": {
+    "$oid": "67d78fbc543bdb119ef477b2"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:09:27.769Z"
+  },
+  "url": "https://cs.sfsu.edu/people/zainab-agha"
+},
+{
+  "_id": {
+    "$oid": "67d8abc4b5fa5a6edfaad69c"
+  },
+  "source_id": {
+    "$oid": "67d78fbf543bdb119ef477b3"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:09:56.510Z"
+  },
+  "url": "https://cs.sfsu.edu/people/corey-carito"
+},
+{
+  "_id": {
+    "$oid": "67d8abecb5fa5a6edfaad69e"
+  },
+  "source_id": {
+    "$oid": "67d78fc0543bdb119ef477b4"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:10:36.221Z"
+  },
+  "url": "https://cs.sfsu.edu/news/cisco-sfsu"
+},
+{
+  "_id": {
+    "$oid": "67d8ac07b5fa5a6edfaad6a0"
+  },
+  "source_id": {
+    "$oid": "67d78fc2543bdb119ef477b5"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:11:03.239Z"
+  },
+  "url": "https://cs.sfsu.edu/people/daniel-huang"
+},
+{
+  "_id": {
+    "$oid": "67d8ac24b5fa5a6edfaad6a1"
+  },
+  "source_id": {
+    "$oid": "67d78fc4543bdb119ef477b6"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:11:32.848Z"
+  },
+  "url": "https://cs.sfsu.edu/people/jozo-dujmovic"
+},
+{
+  "_id": {
+    "$oid": "67d8ac37b5fa5a6edfaad6a2"
+  },
+  "source_id": {
+    "$oid": "67d78fc7543bdb119ef477b7"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:11:51.682Z"
+  },
+  "url": "https://cs.sfsu.edu/people/yuting-gao"
+},
+{
+  "_id": {
+    "$oid": "67d8ac4eb5fa5a6edfaad6a5"
+  },
+  "source_id": {
+    "$oid": "67d78fc8543bdb119ef477b8"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:12:14.382Z"
+  },
+  "url": "https://cs.sfsu.edu/event/professional-decision-support-systems-based-graded-logic"
+},
+{
+  "_id": {
+    "$oid": "67d8ac63b5fa5a6edfaad6a7"
+  },
+  "source_id": {
+    "$oid": "67d78fca543bdb119ef477ba"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:12:35.266Z"
+  },
+  "url": "https://cs.sfsu.edu/barry-levine"
+},
+{
+  "_id": {
+    "$oid": "67d8ac79b5fa5a6edfaad6a8"
+  },
+  "source_id": {
+    "$oid": "67d78fcb543bdb119ef477bb"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:12:57.559Z"
+  },
+  "url": "https://cs.sfsu.edu/events/2025"
+},
+{
+  "_id": {
+    "$oid": "67d8aca0b5fa5a6edfaad6ab"
+  },
+  "source_id": {
+    "$oid": "67d78fcc543bdb119ef477bc"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:13:36.603Z"
+  },
+  "url": "https://cs.sfsu.edu/people/wes-bethel"
+},
+{
+  "_id": {
+    "$oid": "67d8acb5b5fa5a6edfaad6ae"
+  },
+  "source_id": {
+    "$oid": "67d78fce543bdb119ef477bd"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:13:57.202Z"
+  },
+  "url": "https://cs.sfsu.edu/news/inaugural-meeting-sfsus-acm-cs-research-special-interest-group"
+},
+{
+  "_id": {
+    "$oid": "67d8accab5fa5a6edfaad6af"
+  },
+  "source_id": {
+    "$oid": "67d78fcf543bdb119ef477be"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:14:18.162Z"
+  },
+  "url": "https://cs.sfsu.edu/shah-rukh-humayoun"
+},
+{
+  "_id": {
+    "$oid": "67d8ace5b5fa5a6edfaad6b0"
+  },
+  "source_id": {
+    "$oid": "67d78fd0543bdb119ef477bf"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:14:45.704Z"
+  },
+  "url": "https://cs.sfsu.edu/duc-ta"
+},
+{
+  "_id": {
+    "$oid": "67d8ad02b5fa5a6edfaad6b1"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78fd2543bdb119ef477c0"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:15:14.935Z"
+  },
+  "url": "https://cs.sfsu.edu/funding-scholarships"
+},
+{
+  "_id": {
+    "$oid": "67d8ad30b5fa5a6edfaad6b2"
+  },
+  "source_id": {
+    "$oid": "67d78fd3543bdb119ef477c1"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:16:00.124Z"
+  },
+  "url": "https://cs.sfsu.edu/undergrad-advising"
+},
+{
+  "_id": {
+    "$oid": "67d8ad4eb5fa5a6edfaad6b6"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78fd5543bdb119ef477c4"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:16:30.598Z"
+  },
+  "url": "https://cs.sfsu.edu/computer-science-education-research"
+},
+{
+  "_id": {
+    "$oid": "67d8ad64b5fa5a6edfaad6b8"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78fd6543bdb119ef477c5"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:16:52.508Z"
+  },
+  "url": "https://cs.sfsu.edu/event/graduate-seminar-secure-distributed-machine-learning-multi-aggregators-edge-computing"
+},
+{
+  "_id": {
+    "$oid": "67d8ad65b5fa5a6edfaad6b9"
+  },
+  "source_id": {
+    "$oid": "67d78fd8543bdb119ef477c6"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:16:53.609Z"
+  },
+  "url": "https://cs.sfsu.edu/aakash-gautam"
+},
+{
+  "_id": {
+    "$oid": "67d8ad7cb5fa5a6edfaad6bc"
+  },
+  "source_id": {
+    "$oid": "67d78fd9543bdb119ef477c7"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:17:16.016Z"
+  },
+  "url": "https://cs.sfsu.edu/event/elusive-quest-agi-science-or-speculation"
+},
+{
+  "_id": {
+    "$oid": "67d8ad95b5fa5a6edfaad6bd"
+  },
+  "source_id": {
+    "$oid": "67d78fda543bdb119ef477c8"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:17:41.200Z"
+  },
+  "url": "https://cs.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8ada0b5fa5a6edfaad6c6"
+  },
+  "source_id": {
+    "$oid": "67d78fde543bdb119ef477f5"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:17:52.238Z"
+  },
+  "url": "https://www.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8ada9b5fa5a6edfaad6c8"
+  },
+  "source_id": {
+    "$oid": "67d78fe9543bdb119ef479ed"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:18:01.516Z"
+  },
+  "url": "http://www.sfsu.edu/atoz"
+},
+{
+  "_id": {
+    "$oid": "67d8adb2b5fa5a6edfaad6cc"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78fea543bdb119ef479fb"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:18:10.135Z"
+  },
+  "url": "http://www.sfsu.edu/calendar"
+},
+{
+  "_id": {
+    "$oid": "67d8adbeb5fa5a6edfaad6cf"
+  },
+  "source_id": {
+    "$oid": "67d78feb543bdb119ef479ff"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:18:22.931Z"
+  },
+  "url": "http://www.sfsu.edu/login.htm"
+},
+{
+  "_id": {
+    "$oid": "67d8adc0b5fa5a6edfaad6d0"
+  },
+  "source_id": {
+    "$oid": "67d78fed543bdb119ef47a00"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:18:24.027Z"
+  },
+  "url": "https://future.sfsu.edu/visit"
+},
+{
+  "_id": {
+    "$oid": "67d8add0b5fa5a6edfaad6d9"
+  },
+  "source_id": {
+    "$oid": "67d78fee543bdb119ef47a0f"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:18:40.896Z"
+  },
+  "url": "https://parking.sfsu.edu/visitor-information"
+},
+{
+  "_id": {
+    "$oid": "67d8adf5b5fa5a6edfaad6e1"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78ff2543bdb119ef47a13"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:19:17.672Z"
+  },
+  "url": "https://cs.sfsu.edu/career-development-internships-jobs-and-resources"
+},
+{
+  "_id": {
+    "$oid": "67d8ae0cb5fa5a6edfaad6e6"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78ff5543bdb119ef47a1e"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:19:40.638Z"
+  },
+  "url": "http://future.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8ae1ab5fa5a6edfaad6ed"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78ff6543bdb119ef47a2c"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:19:54.613Z"
+  },
+  "url": "http://news.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8ae26b5fa5a6edfaad6f1"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78ff8543bdb119ef47a30"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:20:06.771Z"
+  },
+  "url": "https://www.sfsu.edu/accessibility"
+},
+{
+  "_id": {
+    "$oid": "67d8ae3fb5fa5a6edfaad6fd"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78ff9543bdb119ef47a44"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:20:31.267Z"
+  },
+  "url": "http://equity.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8ae53b5fa5a6edfaad706"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78ffb543bdb119ef47a58"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:20:51.574Z"
+  },
+  "url": "http://sustain.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8ae88b5fa5a6edfaad71c"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78ffd543bdb119ef47a66"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:21:44.595Z"
+  },
+  "url": "https://its.sfsu.edu/privacynotice"
+},
+{
+  "_id": {
+    "$oid": "67d8ae9ab5fa5a6edfaad724"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78ffe543bdb119ef47a75"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:22:02.317Z"
+  },
+  "url": "https://titleix.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8aea6b5fa5a6edfaad725"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d78fff543bdb119ef47a76"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:22:14.191Z"
+  },
+  "url": "http://www.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8aed0b5fa5a6edfaad734"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d79001543bdb119ef47a99"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:22:56.326Z"
+  },
+  "url": "https://grad.sfsu.edu/content/apply"
+},
+{
+  "_id": {
+    "$oid": "67d8aedfb5fa5a6edfaad73c"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d79003543bdb119ef47a9a"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:23:11.777Z"
+  },
+  "url": "https://your.future.sfsu.edu/inquiryform"
+},
+{
+  "_id": {
+    "$oid": "67d8aee7b5fa5a6edfaad742"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d79006543bdb119ef47aa4"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:23:19.957Z"
+  },
+  "url": "http://faculty.sfsu.edu/~ak"
+},
+{
+  "_id": {
+    "$oid": "67d8aeffb5fa5a6edfaad748"
+  },
+  "source_id": {
+    "$oid": "67d79007543bdb119ef47aab"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:23:43.692Z"
+  },
+  "url": "https://news.sfsu.edu/news/department-defense-department-energy-grants-prepare-sfsu-students-industry-jobs"
+},
+{
+  "_id": {
+    "$oid": "67d8af09b5fa5a6edfaad74d"
+  },
+  "source_id": {
+    "$oid": "67d79028543bdb119ef47ab4"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:23:53.573Z"
+  },
+  "url": "https://maps.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8af23b5fa5a6edfaad75b"
+  },
+  "source_id": {
+    "$oid": "67d7902a543bdb119ef47ad0"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:24:19.860Z"
+  },
+  "url": "http://conduct.sfsu.edu/plagiarism"
+},
+{
+  "_id": {
+    "$oid": "67d8af38b5fa5a6edfaad764"
+  },
+  "source_id": {
+    "$oid": "67d7902d543bdb119ef47ae7"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T16:24:40.432Z"
+  },
+  "url": "http://psyservs.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8c1eab5fa5a6edfaad765"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d7902e543bdb119ef47ae8"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T17:44:26.269Z"
+  },
+  "url": "http://titleix.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8c7adb5fa5a6edfaad875"
+  },
+  "source_id": {
+    "$oid": "67d79032543bdb119ef47efa"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T18:09:01.170Z"
+  },
+  "url": "http://bulletin.sfsu.edu/colleges/science-engineering/computer-science/ms-computer-science"
+},
+{
+  "_id": {
+    "$oid": "67d8c9edb5fa5a6edfaad87c"
+  },
+  "source_id": {
+    "$oid": "67d79034543bdb119ef47f14"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T18:18:37.031Z"
+  },
+  "url": "https://bulletin.sfsu.edu/colleges/science-engineering/computer-science/ms-data-science-artificial-intelligence"
+},
+{
+  "_id": {
+    "$oid": "67d8cbc9b5fa5a6edfaad880"
+  },
+  "source_id": {
+    "$oid": "67d79036543bdb119ef47f18"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T18:26:33.113Z"
+  },
+  "url": "http://bulletin.sfsu.edu/colleges/science-engineering/computer-science/certificate-software-engineering"
+},
+{
+  "_id": {
+    "$oid": "67d8d36fb5fa5a6edfaad884"
+  },
+  "source_id": {
+    "$oid": "67d79038543bdb119ef47f1e"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T18:59:11.731Z"
+  },
+  "url": "http://bulletin.sfsu.edu/colleges/science-engineering/computer-science/certificate-ethical-artificial-intelligence"
+},
+{
+  "_id": {
+    "$oid": "67d8d3a5b5fa5a6edfaad8a1"
+  },
+  "source_id": {
+    "$oid": "67d79039543bdb119ef47f33"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T19:00:05.375Z"
+  },
+  "url": "https://campusmemo.sfsu.edu/2024/March-4-2024?utm_source=Campus+Memo&utm_medium=email&utm_id=kulkarni"
+},
+{
+  "_id": {
+    "$oid": "67d8d5f4b5fa5a6edfaad8a2"
+  },
+  "source_id": {
+    "$oid": "67d7903b543bdb119ef47f34"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T19:09:56.119Z"
+  },
+  "url": "https://bulletin.sfsu.edu/colleges/science-engineering/computer-science/certificate-ethical-artificial-intelligence"
+},
+{
+  "_id": {
+    "$oid": "67d8d60ab5fa5a6edfaad8a7"
+  },
+  "source_id": {
+    "$oid": "67d7903d543bdb119ef47f38"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T19:10:18.500Z"
+  },
+  "url": "https://news.sfsu.edu/news/sf-state-program-prepares-participants-view-ai-through-ethical-lens"
+},
+{
+  "_id": {
+    "$oid": "67d8d613b5fa5a6edfaad8aa"
+  },
+  "source_id": {
+    "$oid": "67d79041543bdb119ef47f3d"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T19:10:27.835Z"
+  },
+  "url": "https://webapps.sfsu.edu/public/classservices/classsearch"
+},
+{
+  "_id": {
+    "$oid": "67d8d642b5fa5a6edfaad8bd"
+  },
+  "source_id": {
+    "$oid": "67d79042543bdb119ef47f47"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T19:11:14.321Z"
+  },
+  "url": "https://campusmemo.sfsu.edu/2024/September-23-2024"
+},
+{
+  "_id": {
+    "$oid": "67d8d669b5fa5a6edfaad8d5"
+  },
+  "source_id": {
+    "$oid": "67d79045543bdb119ef47f5f"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T19:11:53.280Z"
+  },
+  "url": "https://registrar.sfsu.edu/graduation"
+},
+{
+  "_id": {
+    "$oid": "67d8d8a7b5fa5a6edfaad8da"
+  },
+  "source_id": {
+    "$oid": "67d79047543bdb119ef47f96"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T19:21:27.736Z"
+  },
+  "url": "http://bulletin.sfsu.edu/colleges/science-engineering/computer-science/bs-computer-science/adt-roadmap"
+},
+{
+  "_id": {
+    "$oid": "67d8db06b5fa5a6edfaad8e6"
+  },
+  "source_id": {
+    "$oid": "67d79049543bdb119ef47f99"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T19:31:34.152Z"
+  },
+  "url": "https://bulletin.sfsu.edu/colleges/science-engineering/computer-science/bs-computer-science"
+},
+{
+  "_id": {
+    "$oid": "67d8db23b5fa5a6edfaad8ec"
+  },
+  "source_id": {
+    "$oid": "67d7904a543bdb119ef47fa8"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T19:32:03.546Z"
+  },
+  "url": "https://future.sfsu.edu/admissions/apply"
+},
+{
+  "_id": {
+    "$oid": "67d8db37b5fa5a6edfaad8f8"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d7904c543bdb119ef47fb8"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T19:32:23.052Z"
+  },
+  "url": "https://cob.sfsu.edu/directory/denise-kleinrichert"
+},
+{
+  "_id": {
+    "$oid": "67d8db47b5fa5a6edfaad902"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d7904d543bdb119ef47fcb"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T19:32:39.533Z"
+  },
+  "url": "https://philosophy.sfsu.edu/carlos-montemayor"
+},
+{
+  "_id": {
+    "$oid": "67d8db64b5fa5a6edfaad90b"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d7904f543bdb119ef47fe2"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T19:33:08.256Z"
+  },
+  "url": "http://grad.sfsu.edu/content/grad-forms"
+},
+{
+  "_id": {
+    "$oid": "67d8db81b5fa5a6edfaad911"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d79051543bdb119ef47fe6"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T19:33:37.681Z"
+  },
+  "url": "http://grad.sfsu.edu/content/contact-us"
+},
+{
+  "_id": {
+    "$oid": "67d8ddc8b5fa5a6edfaad91b"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d79053543bdb119ef47fe9"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T19:43:20.343Z"
+  },
+  "url": "http://bulletin.sfsu.edu/about-sfsu/degrees-offered/certificates"
+},
+{
+  "_id": {
+    "$oid": "67d8ddd6b5fa5a6edfaad923"
+  },
+  "source_id": {
+    "$oid": "67d79056543bdb119ef47ff8"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T19:43:34.073Z"
+  },
+  "url": "https://cose.sfsu.edu/scholarships"
+},
+{
+  "_id": {
+    "$oid": "67d8ddf2b5fa5a6edfaad927"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d79058543bdb119ef4800d"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T19:44:02.179Z"
+  },
+  "url": "https://grad.sfsu.edu/content/academic-probation"
+},
+{
+  "_id": {
+    "$oid": "67d8de0eb5fa5a6edfaad936"
+  },
+  "source_id": {
+    "$oid": "67d7905a543bdb119ef48076"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T19:44:30.360Z"
+  },
+  "url": "http://www.cel.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8e04bb5fa5a6edfaad963"
+  },
+  "source_id": {
+    "$oid": "67d7905c543bdb119ef48085"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T19:54:03.546Z"
+  },
+  "url": "http://bulletin.sfsu.edu/colleges/science-engineering/computer-science"
+},
+{
+  "_id": {
+    "$oid": "67d8e06eb5fa5a6edfaad96e"
+  },
+  "source_id": {
+    "$oid": "67d7905d543bdb119ef480a2"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T19:54:38.383Z"
+  },
+  "url": "https://bursar.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8e070b5fa5a6edfaad970"
+  },
+  "source_id": {
+    "$oid": "67d7905f543bdb119ef480a6"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T19:54:40.375Z"
+  },
+  "url": "http://sutro.sfsu.edu/~huiyang"
+},
+{
+  "_id": {
+    "$oid": "67d8e079b5fa5a6edfaad977"
+  },
+  "source_id": {
+    "$oid": "67d79060543bdb119ef480af"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T19:54:49.889Z"
+  },
+  "url": "https://news.sfsu.edu/news-story/new-data-science-certificate-aims-open-doors-biotech-jobs"
+},
+{
+  "_id": {
+    "$oid": "67d8e085b5fa5a6edfaad97b"
+  },
+  "source_id": {
+    "$oid": "67d79061543bdb119ef480b0"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T19:55:01.487Z"
+  },
+  "url": "https://news.sfsu.edu/news-story/science-coding-programs-boost-biotech-diversity"
+},
+{
+  "_id": {
+    "$oid": "67d8e093b5fa5a6edfaad97d"
+  },
+  "source_id": {
+    "$oid": "67d79064543bdb119ef480b4"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T19:55:15.422Z"
+  },
+  "url": "https://future.sfsu.edu/explore"
+},
+{
+  "_id": {
+    "$oid": "67d8e099b5fa5a6edfaad980"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d79065543bdb119ef480b7"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T19:55:21.441Z"
+  },
+  "url": "https://faculty.sfsu.edu/~humayoun"
+},
+{
+  "_id": {
+    "$oid": "67d8e317b5fa5a6edfaad981"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d79067543bdb119ef480b8"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T20:05:59.019Z"
+  },
+  "url": "https://bulletin.sfsu.edu/colleges/science-engineering/computer-science/ms-computer-science"
+},
+{
+  "_id": {
+    "$oid": "67d8e367b5fa5a6edfaad9aa"
+  },
+  "source_id": {
+    "$oid": "67d79069543bdb119ef480ea"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T20:07:19.871Z"
+  },
+  "url": "https://international.sfsu.edu/maintaining-status"
+},
+{
+  "_id": {
+    "$oid": "67d8e380b5fa5a6edfaad9af"
+  },
+  "source_id": {
+    "$oid": "67d7906b543bdb119ef480ed"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T20:07:44.648Z"
+  },
+  "url": "http://grad.sfsu.edu/content/continuous-enrollment-requirement"
+},
+{
+  "_id": {
+    "$oid": "67d8e639b5fa5a6edfaad9b2"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d7906c543bdb119ef480ee"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T20:19:21.860Z"
+  },
+  "url": "https://bulletin.sfsu.edu/search/?P=SCI%20499"
+},
+{
+  "_id": {
+    "$oid": "67d8e659b5fa5a6edfaad9c1"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d7906e543bdb119ef4811b"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T20:19:53.024Z"
+  },
+  "url": "https://careerservices.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8e671b5fa5a6edfaad9cc"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d79070543bdb119ef48141"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T20:20:17.675Z"
+  },
+  "url": "https://icce.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8e689b5fa5a6edfaad9cf"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d79072543bdb119ef48147"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T20:20:41.919Z"
+  },
+  "url": "https://oip.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8e6b0b5fa5a6edfaad9e3"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d79074543bdb119ef48155"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T20:21:20.545Z"
+  },
+  "url": "https://campusmemo.sfsu.edu/2024/february-19-2024?utm_source=Campus+Memo&utm_medium=email&utm_id=Bethel"
+},
+{
+  "_id": {
+    "$oid": "67d8e6c4b5fa5a6edfaad9ef"
+  },
+  "source_id": {
+    "$oid": "67d79077543bdb119ef48177"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T20:21:40.300Z"
+  },
+  "url": "https://renxt.sfsu.edu/site/Donation2?df_id=1759&mfc_pref=T&1759.donation=form1&set.SingleDesignee=1288"
+},
+{
+  "_id": {
+    "$oid": "67d8e6dcb5fa5a6edfaad9f3"
+  },
+  "source_id": {
+    "$oid": "67d79078543bdb119ef4817d"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T20:22:04.209Z"
+  },
+  "url": "https://cpage.sfsu.edu/datascience"
+},
+{
+  "_id": {
+    "$oid": "67d8e6dfb5fa5a6edfaad9f6"
+  },
+  "source_id": {
+    "$oid": "67d7907d543bdb119ef48188"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T20:22:07.025Z"
+  },
+  "url": "https://bidal.sfsu.edu/~kazokada/index.htm"
+},
+{
+  "_id": {
+    "$oid": "67d8e90cb5fa5a6edfaad9f7"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d79096543bdb119ef48189"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T20:31:24.186Z"
+  },
+  "url": "http://bulletin.sfsu.edu/colleges/science-engineering/computer-science/bs-computer-science"
+},
+{
+  "_id": {
+    "$oid": "67d8eb26b5fa5a6edfaad9f9"
+  },
+  "source_id": {
+    "$oid": "67d79098543bdb119ef4818b"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T20:40:22.948Z"
+  },
+  "url": "http://bulletin.sfsu.edu/colleges/science-engineering/computer-science/minor-computer-science"
+},
+{
+  "_id": {
+    "$oid": "67d8ed2bb5fa5a6edfaad9fb"
+  },
+  "source_id": {
+    "$oid": "67d79099543bdb119ef4818d"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T20:48:59.104Z"
+  },
+  "url": "http://bulletin.sfsu.edu/colleges/science-engineering/computer-science/minor-computing-applications"
+},
+{
+  "_id": {
+    "$oid": "67d8ef35b5fa5a6edfaada00"
+  },
+  "source_id": {
+    "$oid": "67d7909c543bdb119ef48191"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T20:57:41.477Z"
+  },
+  "url": "http://bulletin.sfsu.edu/colleges/science-engineering/computer-science/ct-data-science-machine-learning-for-biotechnology"
+},
+{
+  "_id": {
+    "$oid": "67d8f152b5fa5a6edfaada05"
+  },
+  "source_id": {
+    "$oid": "67d7909d543bdb119ef48194"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:06:42.429Z"
+  },
+  "url": "https://bulletin.sfsu.edu/colleges/science-engineering/cooperative-education"
+},
+{
+  "_id": {
+    "$oid": "67d8f3a8b5fa5a6edfaada24"
+  },
+  "source_id": {
+    "$oid": "67d790a1543bdb119ef481a0"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:16:40.542Z"
+  },
+  "url": "https://bulletin.sfsu.edu/policies-procedures"
+},
+{
+  "_id": {
+    "$oid": "67d8f3b9b5fa5a6edfaada29"
+  },
+  "source_id": {
+    "$oid": "67d790a2543bdb119ef481a1"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:16:57.560Z"
+  },
+  "url": "https://news.sfsu.edu/news/in-person-SF-Hacks-hackathon-triumphant-return"
+},
+{
+  "_id": {
+    "$oid": "67d8f3f2b5fa5a6edfaada4a"
+  },
+  "source_id": {
+    "$oid": "67d790a4543bdb119ef481bf"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:17:54.655Z"
+  },
+  "url": "https://campusmemo.sfsu.edu/2024/march-18-2024?utm_source=Campus+Memo&utm_medium=email&utm_id=AISTAARS"
+},
+{
+  "_id": {
+    "$oid": "67d8f40ab5fa5a6edfaada52"
+  },
+  "source_id": {
+    "$oid": "67d790a5543bdb119ef481ce"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:18:18.552Z"
+  },
+  "url": "https://cob.sfsu.edu/management/certificate/ai-ethics"
+},
+{
+  "_id": {
+    "$oid": "67d8f411b5fa5a6edfaada55"
+  },
+  "source_id": {
+    "$oid": "67d790a7543bdb119ef481d1"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:18:25.904Z"
+  },
+  "url": "https://news.sfsu.edu/archive/news-story/sf-state-launches-new-certificate-ethical-artificial-intelligence.html"
+},
+{
+  "_id": {
+    "$oid": "67d8f41eb5fa5a6edfaada60"
+  },
+  "source_id": {
+    "$oid": "67d790a8543bdb119ef481d2"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:18:38.120Z"
+  },
+  "url": "http://sutro.sfsu.edu/People/jozo/jozo.html"
+},
+{
+  "_id": {
+    "$oid": "67d8f43fb5fa5a6edfaada73"
+  },
+  "source_id": {
+    "$oid": "67d790ac543bdb119ef481e6"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:19:11.551Z"
+  },
+  "url": "https://pinc.sfsu.edu/pinc/gstar"
+},
+{
+  "_id": {
+    "$oid": "67d8f453b5fa5a6edfaada74"
+  },
+  "source_id": {
+    "$oid": "67d790ad543bdb119ef481e7"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:19:31.046Z"
+  },
+  "url": "https://future.sfsu.edu/admissions"
+},
+{
+  "_id": {
+    "$oid": "67d8f454b5fa5a6edfaada75"
+  },
+  "source_id": {
+    "$oid": "67d790b7543bdb119ef481e8"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:19:32.390Z"
+  },
+  "url": "https://cs.sfsu.edu/alumni"
+},
+{
+  "_id": {
+    "$oid": "67d8f470b5fa5a6edfaada7e"
+  },
+  "source_id": {
+    "$oid": "67d790b8543bdb119ef48210"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:20:00.256Z"
+  },
+  "url": "https://develop.sfsu.edu/WaysToGive"
+},
+{
+  "_id": {
+    "$oid": "67d8f67bb5fa5a6edfaada7f"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d790ba543bdb119ef48212"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:28:43.787Z"
+  },
+  "url": "https://bulletin.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8f68fb5fa5a6edfaada80"
+  },
+  "source_id": {
+    "$oid": "67d790bc543bdb119ef48213"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:29:03.566Z"
+  },
+  "url": "https://renxt.sfsu.edu/site/Donation2;jsessionid=00000000.app30121a?1400_donation=form1&df_id=1400&mfc_pref=T&NONCE_TOKEN=F45552E522B1DA9B839AA015A2D3D421"
+},
+{
+  "_id": {
+    "$oid": "67d8f6aeb5fa5a6edfaada8e"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d790be543bdb119ef48244"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:29:34.843Z"
+  },
+  "url": "https://financialaid.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8f6b8b5fa5a6edfaada8f"
+  },
+  "source_id": {
+    "$oid": "67d790bf543bdb119ef48245"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:29:44.603Z"
+  },
+  "url": "https://future.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8f6d8b5fa5a6edfaada9f"
+  },
+  "source_id": {
+    "$oid": "67d790c1543bdb119ef48264"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:30:16.345Z"
+  },
+  "url": "https://housing.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8f6edb5fa5a6edfaadaa7"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d790c2543bdb119ef4827e"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:30:37.842Z"
+  },
+  "url": "https://library.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8f707b5fa5a6edfaadab2"
+  },
+  "source_id": {
+    "$oid": "67d790c4543bdb119ef48299"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:31:03.603Z"
+  },
+  "url": "https://lca.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8f72ab5fa5a6edfaadac2"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d790c5543bdb119ef482c0"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:31:38.403Z"
+  },
+  "url": "https://dos.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8f73cb5fa5a6edfaadacc"
+  },
+  "source_id": {
+    "$oid": "67d790c7543bdb119ef482cf"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:31:56.160Z"
+  },
+  "url": "https://eop.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8f758b5fa5a6edfaadad9"
+  },
+  "source_id": {
+    "$oid": "67d790c8543bdb119ef482e1"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:32:24.005Z"
+  },
+  "url": "https://activities.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8f762b5fa5a6edfaadadd"
+  },
+  "source_id": {
+    "$oid": "67d790ca543bdb119ef482ea"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:32:34.436Z"
+  },
+  "url": "https://www.sfsu.edu/academics.html"
+},
+{
+  "_id": {
+    "$oid": "67d8f76bb5fa5a6edfaadae2"
+  },
+  "source_id": {
+    "$oid": "67d790cb543bdb119ef482fc"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:32:43.449Z"
+  },
+  "url": "https://advisinghub.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8f780b5fa5a6edfaadae7"
+  },
+  "source_id": {
+    "$oid": "67d790cd543bdb119ef48302"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:33:04.270Z"
+  },
+  "url": "https://future.sfsu.edu/academics"
+},
+{
+  "_id": {
+    "$oid": "67d8f7a5b5fa5a6edfaadaed"
+  },
+  "source_id": {
+    "$oid": "67d790ce543bdb119ef4830f"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:33:41.402Z"
+  },
+  "url": "https://grad.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8f7c8b5fa5a6edfaadaee"
+  },
+  "source_id": {
+    "$oid": "67d790d0543bdb119ef48310"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:34:16.382Z"
+  },
+  "url": "https://cpage.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8f7deb5fa5a6edfaadaef"
+  },
+  "source_id": {
+    "$oid": "67d790d1543bdb119ef48311"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:34:38.166Z"
+  },
+  "url": "https://international.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8f7efb5fa5a6edfaadaf1"
+  },
+  "source_id": {
+    "$oid": "67d790d3543bdb119ef48315"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:34:55.816Z"
+  },
+  "url": "https://icce.sfsu.edu/overview-programs"
+},
+{
+  "_id": {
+    "$oid": "67d8f7ffb5fa5a6edfaadafa"
+  },
+  "source_id": {
+    "$oid": "67d790d4543bdb119ef48329"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:35:11.334Z"
+  },
+  "url": "https://create.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8f80eb5fa5a6edfaadb01"
+  },
+  "source_id": {
+    "$oid": "67d790d6543bdb119ef48333"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:35:26.225Z"
+  },
+  "url": "https://recruitment.sfsu.edu/visit-sf-state"
+},
+{
+  "_id": {
+    "$oid": "67d8f815b5fa5a6edfaadb03"
+  },
+  "source_id": {
+    "$oid": "67d790d9543bdb119ef48337"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:35:33.702Z"
+  },
+  "url": "https://webapps.sfsu.edu/public/webcalendar/event/58782"
+},
+{
+  "_id": {
+    "$oid": "67d8f81db5fa5a6edfaadb04"
+  },
+  "source_id": {
+    "$oid": "67d790db543bdb119ef4833b"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:35:41.257Z"
+  },
+  "url": "https://webapps.sfsu.edu/public/webcalendar/event/58836"
+},
+{
+  "_id": {
+    "$oid": "67d8f829b5fa5a6edfaadb0b"
+  },
+  "source_id": {
+    "$oid": "67d790dc543bdb119ef4834a"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:35:53.415Z"
+  },
+  "url": "https://ai.sfsu.edu/event/ai-literacy-essentials-introduction-generative-ai-mar-19-25"
+},
+{
+  "_id": {
+    "$oid": "67d8f83db5fa5a6edfaadb10"
+  },
+  "source_id": {
+    "$oid": "67d790dd543bdb119ef4834e"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:36:13.503Z"
+  },
+  "url": "https://news.sfsu.edu/news/apply-sfsu-campus-housing"
+},
+{
+  "_id": {
+    "$oid": "67d8f856b5fa5a6edfaadb18"
+  },
+  "source_id": {
+    "$oid": "67d790df543bdb119ef48352"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:36:38.595Z"
+  },
+  "url": "https://news.sfsu.edu/news/gators-take-lead-sfsu-alumni-make-political-history-3-bay-area-cities"
+},
+{
+  "_id": {
+    "$oid": "67d8f867b5fa5a6edfaadb1c"
+  },
+  "source_id": {
+    "$oid": "67d790e0543bdb119ef48358"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:36:55.869Z"
+  },
+  "url": "https://news.sfsu.edu/news/sfsu-student-establishes-nonprofit-organization-memory-her-son"
+},
+{
+  "_id": {
+    "$oid": "67d8f87cb5fa5a6edfaadb20"
+  },
+  "source_id": {
+    "$oid": "67d790e1543bdb119ef4835b"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:37:16.794Z"
+  },
+  "url": "https://news.sfsu.edu/news/sfsu-art-students-create-extraordinary-exhibition-exploring-ordinary"
+},
+{
+  "_id": {
+    "$oid": "67d8f88fb5fa5a6edfaadb21"
+  },
+  "source_id": {
+    "$oid": "67d790e3543bdb119ef4835c"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:37:35.110Z"
+  },
+  "url": "http://www.sfsu.edu/accessibility"
+},
+{
+  "_id": {
+    "$oid": "67d8f8a3b5fa5a6edfaadb22"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d790e5543bdb119ef4835d"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:37:55.199Z"
+  },
+  "url": "https://equity.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8f8b2b5fa5a6edfaadb23"
+  },
+  "source_id": {
+    "$oid": "67d790e6543bdb119ef4835e"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:38:10.885Z"
+  },
+  "url": "https://sustain.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8f8bbb5fa5a6edfaadb28"
+  },
+  "source_id": {
+    "$oid": "67d790ec543bdb119ef48368"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:38:19.859Z"
+  },
+  "url": "https://access.sfsu.edu/ati/docreaders"
+},
+{
+  "_id": {
+    "$oid": "67d8f8d6b5fa5a6edfaadb3b"
+  },
+  "source_id": {
+    "$oid": "67d790ed543bdb119ef48386"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:38:46.162Z"
+  },
+  "url": "https://ueap.sfsu.edu/accreditation/wasc"
+},
+{
+  "_id": {
+    "$oid": "67d8f8eab5fa5a6edfaadb44"
+  },
+  "source_id": {
+    "$oid": "67d790f1543bdb119ef4839f"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:39:06.346Z"
+  },
+  "url": "http://academic.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8f8f8b5fa5a6edfaadb4d"
+  },
+  "source_id": {
+    "$oid": "67d790f2543bdb119ef483b7"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:39:20.556Z"
+  },
+  "url": "http://academicresources.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8f905b5fa5a6edfaadb53"
+  },
+  "source_id": {
+    "$oid": "67d790f4543bdb119ef483cc"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:39:33.401Z"
+  },
+  "url": "http://senate.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8f925b5fa5a6edfaadb65"
+  },
+  "source_id": {
+    "$oid": "67d790f5543bdb119ef483fb"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:40:05.439Z"
+  },
+  "url": "http://at.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8f933b5fa5a6edfaadb6a"
+  },
+  "source_id": {
+    "$oid": "67d790f7543bdb119ef48400"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:40:19.495Z"
+  },
+  "url": "http://www.sfsu.edu/alerts"
+},
+{
+  "_id": {
+    "$oid": "67d8f94bb5fa5a6edfaadb75"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d790f9543bdb119ef48412"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:40:43.308Z"
+  },
+  "url": "http://sfstatefacilities.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8f955b5fa5a6edfaadb78"
+  },
+  "source_id": {
+    "$oid": "67d790fa543bdb119ef48416"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:40:53.620Z"
+  },
+  "url": "http://access.sfsu.edu/ati"
+},
+{
+  "_id": {
+    "$oid": "67d8f963b5fa5a6edfaadb80"
+  },
+  "source_id": {
+    "$oid": "67d790fc543bdb119ef4842a"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:41:07.006Z"
+  },
+  "url": "https://cob.sfsu.edu/accounting"
+},
+{
+  "_id": {
+    "$oid": "67d8f96db5fa5a6edfaadb83"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d790fd543bdb119ef48436"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:41:17.260Z"
+  },
+  "url": "https://registrar.sfsu.edu/guides"
+},
+{
+  "_id": {
+    "$oid": "67d8f97ab5fa5a6edfaadb8a"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d790ff543bdb119ef4844d"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:41:30.201Z"
+  },
+  "url": "http://adminfin.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8f985b5fa5a6edfaadb8b"
+  },
+  "source_id": {
+    "$oid": "67d79101543bdb119ef4844e"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:41:41.627Z"
+  },
+  "url": "http://www.sfsu.edu/future"
+},
+{
+  "_id": {
+    "$oid": "67d8f99ab5fa5a6edfaadb94"
+  },
+  "source_id": {
+    "$oid": "67d79102543bdb119ef48453"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:42:02.350Z"
+  },
+  "url": "https://advising.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8f9a3b5fa5a6edfaadb95"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d79103543bdb119ef48454"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:42:11.660Z"
+  },
+  "url": "http://advisinghub.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8f9b4b5fa5a6edfaadba0"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d79105543bdb119ef4845d"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:42:28.534Z"
+  },
+  "url": "http://africana.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8f9cdb5fa5a6edfaadbb2"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d79107543bdb119ef4847d"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:42:53.297Z"
+  },
+  "url": "https://seo.sfsu.edu/LSAMP"
+},
+{
+  "_id": {
+    "$oid": "67d8f9dfb5fa5a6edfaadbbc"
+  },
+  "source_id": {
+    "$oid": "67d79108543bdb119ef48497"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:43:11.245Z"
+  },
+  "url": "http://alumni.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8f9f3b5fa5a6edfaadbc9"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d7910a543bdb119ef484b1"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:43:31.708Z"
+  },
+  "url": "https://sfsuais.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8fa19b5fa5a6edfaadbd4"
+  },
+  "source_id": {
+    "$oid": "67d7910b543bdb119ef484be"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:44:09.322Z"
+  },
+  "url": "http://ali.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8fa32b5fa5a6edfaadbe4"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d7910d543bdb119ef484cb"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:44:34.112Z"
+  },
+  "url": "https://humcwl.sfsu.edu/bachelor-arts-american-studies"
+},
+{
+  "_id": {
+    "$oid": "67d8fa44b5fa5a6edfaadbee"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d7910e543bdb119ef484d8"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:44:52.845Z"
+  },
+  "url": "https://gcoe.sfsu.edu/cahill/learning-resources"
+},
+{
+  "_id": {
+    "$oid": "67d8fa72b5fa5a6edfaadc0e"
+  },
+  "source_id": {
+    "$oid": "67d79110543bdb119ef484f6"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:45:38.053Z"
+  },
+  "url": "https://research.sfsu.edu/HAP"
+},
+{
+  "_id": {
+    "$oid": "67d8fa90b5fa5a6edfaadc1b"
+  },
+  "source_id": {
+    "$oid": "67d79112543bdb119ef48507"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:46:08.078Z"
+  },
+  "url": "http://anthropology.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8faa2b5fa5a6edfaadc26"
+  },
+  "source_id": {
+    "$oid": "67d79113543bdb119ef48515"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:46:26.079Z"
+  },
+  "url": "http://art.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8facfb5fa5a6edfaadc2e"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d79115543bdb119ef4851b"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:47:11.619Z"
+  },
+  "url": "http://ugs.sfsu.edu/articulation"
+},
+{
+  "_id": {
+    "$oid": "67d8fae3b5fa5a6edfaadc39"
+  },
+  "source_id": {
+    "$oid": "67d79117543bdb119ef4852b"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:47:31.304Z"
+  },
+  "url": "https://aapi.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8fafbb5fa5a6edfaadc4b"
+  },
+  "source_id": {
+    "$oid": "67d79119543bdb119ef4855a"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:47:55.383Z"
+  },
+  "url": "http://aas.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8fb3db5fa5a6edfaadc62"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d7911c543bdb119ef48598"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:49:01.884Z"
+  },
+  "url": "http://asi.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8fb4cb5fa5a6edfaadc64"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d7911e543bdb119ef4859c"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:49:16.953Z"
+  },
+  "url": "https://at.sfsu.edu/classroom-technology"
+},
+{
+  "_id": {
+    "$oid": "67d8fb5fb5fa5a6edfaadc70"
+  },
+  "source_id": {
+    "$oid": "67d7911f543bdb119ef485ae"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:49:35.734Z"
+  },
+  "url": "https://qaservices.sfsu.edu/audit-advisory-services"
+},
+{
+  "_id": {
+    "$oid": "67d8fb7db5fa5a6edfaadc81"
+  },
+  "source_id": {
+    "$oid": "67d79121543bdb119ef485da"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:50:05.728Z"
+  },
+  "url": "http://biology.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8fb8eb5fa5a6edfaadc8a"
+  },
+  "source_id": {
+    "$oid": "67d79123543bdb119ef485e2"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:50:22.455Z"
+  },
+  "url": "http://beca.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8fbb5b5fa5a6edfaadc96"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d79124543bdb119ef4860b"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T21:51:01.227Z"
+  },
+  "url": "http://budget.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8feedb5fa5a6edfaadc97"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d79126543bdb119ef4860c"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T22:04:45.040Z"
+  },
+  "url": "http://bulletin.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8ff07b5fa5a6edfaadc98"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d79128543bdb119ef4860d"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T22:05:11.067Z"
+  },
+  "url": "http://bursar.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8ff25b5fa5a6edfaadc9e"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d7912a543bdb119ef48624"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T22:05:41.277Z"
+  },
+  "url": "http://cob.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8ff45b5fa5a6edfaadca4"
+  },
+  "source_id": {
+    "$oid": "67d7912c543bdb119ef4862a"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T22:06:13.191Z"
+  },
+  "url": "https://cob.sfsu.edu/resources/undergraduate-resources/business-lab"
+},
+{
+  "_id": {
+    "$oid": "67d8ff59b5fa5a6edfaadcac"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d7912e543bdb119ef48633"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T22:06:33.437Z"
+  },
+  "url": "http://mba.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8ff62b5fa5a6edfaadcb1"
+  },
+  "source_id": {
+    "$oid": "67d79130543bdb119ef4863a"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T22:06:42.738Z"
+  },
+  "url": "http://busops.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8ff6eb5fa5a6edfaadcb3"
+  },
+  "source_id": {
+    "$oid": "67d79131543bdb119ef4863d"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T22:06:54.081Z"
+  },
+  "url": "http://gcoe.sfsu.edu/cahill"
+},
+{
+  "_id": {
+    "$oid": "67d8ff94b5fa5a6edfaadcc5"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d79133543bdb119ef4866f"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T22:07:32.345Z"
+  },
+  "url": "https://gcoe.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8ffa5b5fa5a6edfaadcce"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d79135543bdb119ef4867f"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T22:07:49.490Z"
+  },
+  "url": "https://fellowships.sfsu.edu/california-pre-doctoral-program"
+},
+{
+  "_id": {
+    "$oid": "67d8ffc4b5fa5a6edfaadcd4"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d79136543bdb119ef48682"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T22:08:20.567Z"
+  },
+  "url": "https://ueap.sfsu.edu/california-promise-program"
+},
+{
+  "_id": {
+    "$oid": "67d8ffd7b5fa5a6edfaadcde"
+  },
+  "source_id": {
+    "$oid": "67d7914e543bdb119ef4868a"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T22:08:39.788Z"
+  },
+  "url": "https://liberalstudies.sfsu.edu/california-studies"
+},
+{
+  "_id": {
+    "$oid": "67d8ffe2b5fa5a6edfaadce1"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d7914f543bdb119ef4868b"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T22:08:50.780Z"
+  },
+  "url": "http://campusmemo.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d8fffeb5fa5a6edfaadcf5"
+  },
+  "source_id": {
+    "$oid": "67d79151543bdb119ef486cf"
+  },
+  "type": "html",
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T22:09:18.438Z"
+  },
+  "url": "http://campusrec.sfsu.edu"
+},
+{
+  "_id": {
+    "$oid": "67d9000cb5fa5a6edfaadcf8"
+  },
+  "type": "html",
+  "source_id": {
+    "$oid": "67d79152543bdb119ef486d4"
+  },
+  "processed": true,
+  "processed_at": {
+    "$date": "2025-03-17T22:09:32.245Z"
+  },
+  "url": "http://outreach.sfsu.edu"
+}]
