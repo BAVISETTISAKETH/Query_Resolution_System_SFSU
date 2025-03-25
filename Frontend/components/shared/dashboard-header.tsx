@@ -61,9 +61,7 @@ export function DashboardHeader({ userType }: DashboardHeaderProps) {
   }
 
   const handleProfileClick = (action: string) => {
-    // In a real app, these would navigate to actual pages
-    alert(`Navigating to ${action} page`)
-    // router.push(`/${userType}/${action.toLowerCase()}`);
+    router.push(`/${userType}/${action.toLowerCase()}`);
   }
 
   const handleLogout = () => {
