@@ -46,6 +46,18 @@ npm run dev
 pnpm dev
 ```
 
+## Development Workflow
+
+This project uses a simplified Git workflow for single-developer development:
+
+* `git quick` - Commit all changes with a default message
+* `git push` - Push changes to remote repository
+* `git pushit` - Commit and push changes in one command
+
 ## License
 
-[MIT](LICENSE) 
+[MIT](LICENSE)
+
+## About
+
+No description, website, or topics provided. 
